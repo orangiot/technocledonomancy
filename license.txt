@@ -1,0 +1,8 @@
+english.txt from github.com/dwyl/english-words under The Unlicense
+german.txt from github.com/creativecouple/all-the-german-words-ascii under MIT License by CreativeCouple
+italian.txt from github.com/napolux/paroleitaliane under MIT License by Francesco Napoletano
+ouranianCM.txt from chaosmatrix.org/library/chaos/texts/obdict2.html
+ouranianIOT.txt from chaosmagick.org/barbdict/
+portal.jpg under Public Domain by Håkan Bergström
+
+Everything else under MIT License by Orang (github.com/orang)
